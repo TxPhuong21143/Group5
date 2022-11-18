@@ -1,0 +1,393 @@
+.fix-header {
+    height: 100px;
+}
+
+.create-order-container {
+    margin-left: 6%;
+    width: 88%;
+    display: inline-block;
+    margin-top: 16px;
+}
+
+.icon-fixmargin {
+    margin-top: 24px;
+}
+
+.location-detail {
+    color: rgb(246, 110, 65);
+    font-size: 24px;
+    border-top: 2px dashed rgb(233, 159, 94);
+    border-bottom: 1px solid rgb(234, 231, 231);
+    border-left: 1px solid rgb(234, 231, 231);
+    border-right: 1px solid rgb(234, 231, 231);
+    text-transform: capitalize;
+}
+
+.name-sdt {
+    color: black;
+    font-size: 18px;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.contact-container {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 24px;
+}
+
+.contact-detail {
+    color: black;
+    margin-left: 8px;
+    font-size: 18px;
+    font-weight: unset;
+}
+
+.list-container {
+    width: 100%;
+    margin-top: 1%;
+    display: inline-block;
+}
+
+.table-title-row {
+    width: 100%;
+    display: block;
+    border: 1px solid rgb(234, 231, 231);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sanpham {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    width: 60%;
+    float: left;
+}
+
+.fix-margin-sanpham {
+    margin-left: 4%;
+}
+
+.dongia {
+    color: rgb(203, 196, 196);
+    width: 10%;
+    float: left;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.soluong {
+    color: rgb(203, 196, 196);
+    width: 10%;
+    float: left;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.thanhtien {
+    color: rgb(203, 196, 196);
+    font-size: 18px;
+    text-transform: capitalize;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    float: left;
+}
+
+.item-container {
+    height: 160px;
+    border: 1px solid rgb(226, 223, 223);
+    margin-top: 4px;
+}
+
+.category-location {
+    height: 40px;
+    border-bottom: 1px solid rgb(226, 223, 223);
+    width: 98%;
+    margin-left: 1%;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.order-detail {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.product-detail {
+    width: 60%;
+    display: flex;
+    align-items: center;
+}
+
+.product-img {
+    height: 100px;
+    width: 70px;
+}
+
+.product-name {
+    font-size: 14px;
+}
+
+.row-item {
+    color: black;
+    font-size: 14px;
+    display: flex;
+    text-transform: unset;
+}
+
+.fix-alittlebit {
+    margin-left: 24px;
+}
+
+.confirm-container {
+    border: 1px solid rgb(226, 223, 223);
+    margin-top: 24px;
+}
+
+.ship-method-container {
+    height: 180px;
+    border: 1px solid rgb(226, 223, 223);
+    margin-top: 8px;
+}
+
+.order-mes {
+    width: 40%;
+    height: 120px;
+    border-right: 2px dotted rgb(226, 223, 223);
+    border-bottom: 2px dotted rgb(226, 223, 223);
+    display: flex;
+    justify-content: center;
+    float: left;
+    align-items: center;
+}
+
+.order-mes-title {
+    font-size: 20px;
+    color: rgb(191, 193, 195);
+}
+
+.order-mes-input {
+    width: 60%;
+    margin-left: 4%;
+    height: 30px;
+    font-size: 20px;
+    border: 1px solid rgb(226, 223, 223);
+
+}
+
+.ship-detail {
+    width: 59.7%;
+    float: left;
+    border-bottom: 2px dotted rgb(226, 223, 223);
+    height: 120px;
+}
+
+.column-fix-4 {
+    width: 25%;
+    float: left;
+}
+
+.ship-title {
+    color: rgb(46, 180, 46);
+    font-size: 16px;
+
+}
+
+.inline-marginleft12px {
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 12px;
+}
+
+.add-left12px {
+    margin-left: 36px;
+}
+
+.total-price-container {
+    width: 100%;
+    display: inline-block;
+}
+
+.total-price {
+    margin-left: 70%;
+    width: 30%;
+    height: 60px;
+    margin-top: 1%;
+}
+
+.notification-aftership {
+    color: rgb(202, 204, 205);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.price-after-ship {
+    font-size: 20px;
+    margin-left: 8px;
+    display: inline-block;
+    font-weight: 400;
+    color: red;
+}
+
+.change-ship {
+    color: rgb(66, 66, 211);
+}
+
+.change-ship:hover {
+    cursor: pointer;
+}
+
+.voucher-bill-container {
+    height: 100px;
+    border: 1px solid rgb(226, 223, 223);
+    margin-top: 8px;
+}
+
+.voucher-logo {
+    width: 30%;
+    float: left;
+    position: relative;
+}
+
+.icon-voucher {
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 9%;
+    font-size: 30px;
+    color: orange;
+}
+
+.voucher-title {
+    position: absolute;
+    top: 56%;
+    left: 20%;
+}
+
+.chosse-voucher {
+    width: 56%;
+    float: left;
+}
+
+.btn-chosse {
+    float: left;
+    width: 14%;
+    display: inline-block;
+    margin-top: 2.5%;
+    color: rgb(69, 69, 219);
+}
+
+.btn-chosse:hover {
+    cursor: pointer;
+}
+
+.buy-method-container {
+    height: 100px;
+    border-bottom: 1px solid rgb(226, 223, 223);
+}
+
+.buy-method-title {
+    width: 60%;
+    float: left;
+    font-size: 20px;
+}
+
+.buy-method-title-createorder {
+    margin-top: 5%;
+    margin-left: 4%;
+    display: inline-block;
+}
+
+.buy-method-opt-createorder {
+    width: 20%;
+    float: left;
+    font-size: 20px;
+}
+
+.buy-method-opt-createorder-detail {
+    font-size: 16px;
+    margin-top: 15%;
+    margin-left: 4%;
+    display: inline-block;
+}
+
+.btn-change-buy-method {
+    width: 20%;
+    float: left;
+}
+
+.btn-change-buy-method-btn {
+    color: rgb(77, 56, 212);
+    font-size: 16px;
+    margin-top: 15%;
+    margin-left: 30%;
+    display: inline-block;
+}
+
+.btn-change-buy-method-btn:hover {
+    cursor: pointer;
+}
+
+.confirm-show {
+    width: 25%;
+    margin-left: 75%;
+    margin-top: 24px;
+}
+
+.show-opt-confirm {
+    margin-top: 16px;
+}
+
+.price-result-createorder {
+    color: red;
+    font-size: 24px;
+}
+
+.fix-confirm-price {
+    margin-left: 15%;
+}
+
+.fix-confirm-priceresult {
+    margin-left: 10%;
+}
+
+.create-order-btn {
+    border-top: 1px solid rgb(226, 223, 223);
+    margin-top: 20px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.create-order-btn-div {
+    height: 50px;
+    width: 200px;
+    background-color: red;
+    color: white;
+    margin-left: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.create-order-btn-div:hover{
+    cursor: pointer;
+
+    background-color: rgb(232, 58, 58);
+}
+
+.full-device{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgb(5, 4, 4);
+    z-index: 2;
+}

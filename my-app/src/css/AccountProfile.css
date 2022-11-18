@@ -1,0 +1,88 @@
+.fix-header{
+    height: 100px;
+}
+.my-profile-container{
+    width: 88%;
+    display: inline-block;
+    margin-left: 6%;
+}
+
+.left-nav{
+    width: 20%;
+    float: left;
+}
+
+.right-profile-status{
+    width: 80%;
+    float: left;
+    margin-top: 24px;
+}
+.profile-nav{
+    display: flex;
+    margin-top: 8px;
+    align-items: center;
+    width: 85%;
+    height: 30px;
+    border-bottom: 1px solid  rgb(223, 217, 195);
+    text-transform: capitalize;
+}
+.profile-nav:hover{
+    cursor: pointer;
+    color: rgb(200, 196, 196);
+}
+.profile-manager{
+    margin-top: 16px;
+    text-transform: capitalize;
+    font-size: 24px;
+    font-weight: bold;
+    height: 40px;
+    width: 85%;
+    color: rgb(95, 93, 93);
+    border-bottom: 1px solid   rgb(223, 217, 195);
+}
+
+.profile-container{
+    height: 140px;
+    width: 100%;
+}
+.fix-margin-left{
+    margin-left: 20%;
+}
+.title{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.add-margin{
+    margin-top: 8px;
+}
+.btn-add{
+    margin-top: 24px;
+    margin-left: 20%;
+    height: 40px;
+    width: 20%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: white;
+}
+.delete-contact{
+    height: 30px;
+    width: 20%;
+    margin-top: 8px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: white;
+}
+.delete-contact:hover{
+    cursor: pointer;
+}
